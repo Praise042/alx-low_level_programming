@@ -1,15 +1,21 @@
-#include "alx.h"
+#include "alxschool.h"
 
 /**
- * main - Prints "ALX" followed by a new line.
+ * main - Entry point
  *
  * Return: Always 0.
  */
 int main(void)
 {
 	_putchar('A');
-	_putchar('L');
-	_putchar('X');
+	_putchar('l');
+	_putchar('x');
+	_putchar('s');
+	_putchar('c');
+	_putchar('h');
+	_putchar('o');
+	_putchar('o');
+	_putchar('l');
 	_putchar('\n');
 
 	return (0);
