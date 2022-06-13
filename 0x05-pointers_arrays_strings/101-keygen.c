@@ -1,8 +1,8 @@
+#include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
 /**
  * main - generates keygen.
- *
  * Return: 0
  */
 int main(void)
@@ -20,6 +20,5 @@ j += i;
 printf("%c", i);
 }
 printf("%c\n", (2772 - j));
-
 return (0);
 }
