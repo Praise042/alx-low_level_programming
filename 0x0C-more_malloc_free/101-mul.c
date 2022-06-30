@@ -13,9 +13,8 @@ int main(int argc, char *argv[])
 	int j = 1;
 
 	if (argc != 3)
-	{
-		print_string("Error in args\n");
-		exit(98);
+	{		print_string("Error in args\n");
+			exit(98);
 	}
 
 	while (j < argc)
