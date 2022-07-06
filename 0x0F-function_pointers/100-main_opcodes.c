@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 /**
- * main - check the code for Holberton School students.
+ * main - check the code for ALX School students.
  * @argc: amount of args
  * @argv: arguments
  * Return: 1 if an error occurred, 0 otherwise
